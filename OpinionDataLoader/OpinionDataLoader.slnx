@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OpinionDataLoader.Data/OpinionDataLoader.Data.csproj" />
+  <Project Path="OpinionDataLoader.Load/OpinionDataLoader.Load.csproj" Id="79788a88-0df8-4541-b9b0-951f992ffebd" />
+</Solution>
